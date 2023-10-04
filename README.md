@@ -1,2 +1,2 @@
-# SimpleBanBot
+# Simple Ban Bot
 I'm Super Basic
